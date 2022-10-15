@@ -1,0 +1,9 @@
+[[GlibNetworking]]
+arch = "x86_64"
+git-tree-sha1 = "5049e26822135811bc8fe384d4b0cc253a71fa1b"
+libc = "glibc"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "5ea80aa3e81c4359c3abffa5195b0a2a76e85a5fc881df1a4c5c7ae5dd4af5b9"
+    url = "https://github.com/lucifer1004/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.x86_64-linux-gnu.tar.gz"
